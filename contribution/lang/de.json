@@ -6983,7 +6983,7 @@
  	 	},
  	 	"shareDungeonModal": {
  	 	 	"title": {
- 	 	 	 	"trans": "Dungeon teilen, um zu chatten?",
+ 	 	 	 	"trans": "Dungeon mit dem Chat teilen?",
  	 	 	 	"eng": "Share Dungeon to chat?"
  	 	 	},
  	 	 	"description": {
@@ -7008,7 +7008,7 @@
  	 	 	"eng": "Do you think you are strong enough? take on stronger enemies in dungeon!\r\n                        remember to buy some healing item! you won't regen after battle in dungeon"
  	 	},
  	 	"cleared": {
- 	 	 	"trans": "Dungeon klärte!",
+ 	 	 	"trans": "Dungeon gesäubert!",
  	 	 	"eng": "Dungeon cleared!"
  	 	}
  	},
@@ -8035,7 +8035,7 @@
  	 	 	"eng": "Illegal name, please use other name"
  	 	},
  	 	"nameProfane": {
- 	 	 	"trans": "Dieser Name enthält nicht erlaubt mit Worten, bitte verwenden Sie einen anderen Namen",
+ 	 	 	"trans": "Dieser Name enthält nicht erlaubte Wörter, bitte verwenden Sie einen anderen Namen",
  	 	 	"eng": "This name contains wordings not allowed, please use other name"
  	 	},
  	 	"nameInvalid": {
