@@ -6483,7 +6483,7 @@
  	 	 	},
  	 	 	"money": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Erhalte Bitoin",
+ 	 	 	 	 	"trans": "Erhalte Bitcoins",
  	 	 	 	 	"eng": "Acquire Bitcoins"
  	 	 	 	},
  	 	 	 	"description": {
@@ -7995,7 +7995,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"chance"
  	 	 	 	],
- 	 	 	 	"trans": "Sie haben nicht entkommen, Erfolgschance: ${chance}%",
+ 	 	 	 	"trans": "Sie sind nicht entkommen, Erfolgschance: ${chance}%",
  	 	 	 	"eng": "You failed to escape, success chance: ${chance}%"
  	 	 	}
  	 	},
