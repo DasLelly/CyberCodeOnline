@@ -402,7 +402,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"cost"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Der Gang-Chat wird aktiviert, sobald du einer Gang angehörst.\\nFinde eine Gang, indem du Freunde im globalen Chat finden oder deine eigende erstellst und deine Freunde einlädst!",
+ 	 	 	 	 	"trans": "Der Gang-Chat wird aktiviert, sobald du einer Gang angehörst. Finde eine Gang, indem du Freunde im globalen Chat findest oder deine eigende erstellst und deine Freunde einlädst!",
  	 	 	 	 	"eng": "gang chat will be enabled when you belong to a gang.\\njoin a gang by making friends in global chat or create your own gang and invite your friends!"
  	 	 	 	},
  	 	 	 	"createButton": {
